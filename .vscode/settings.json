@@ -1,0 +1,4 @@
+{
+    "git.ignoreLimitWarning": true,
+    "PYTHONPATH": "./env/python.exe"
+}
